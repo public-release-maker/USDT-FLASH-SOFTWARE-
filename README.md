@@ -1,9 +1,7 @@
 # USDT-FLASH-SOFTWARE-
 
-# 🚀 USDT Flashing Software (2026 Guide) -- Coin Flashr Public Release
 
-🔗 **Official Repository:**\
-https://github.com/usdt-flashing-app/public-release
+### 🚀 USDT Flashing Software (2026 Guide) -- Coin Flashr Public Release
 
 ------------------------------------------------------------------------
 
